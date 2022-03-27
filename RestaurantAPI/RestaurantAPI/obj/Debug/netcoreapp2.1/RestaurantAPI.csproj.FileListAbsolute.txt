@@ -1,0 +1,11 @@
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\bin\Debug\netcoreapp2.1\RestaurantAPI.deps.json
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\bin\Debug\netcoreapp2.1\RestaurantAPI.runtimeconfig.json
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\bin\Debug\netcoreapp2.1\RestaurantAPI.runtimeconfig.dev.json
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\bin\Debug\netcoreapp2.1\RestaurantAPI.dll
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\obj\Debug\netcoreapp2.1\RestaurantAPI.csprojAssemblyReference.cache
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\obj\Debug\netcoreapp2.1\RestaurantAPI.csproj.CoreCompileInputs.cache
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\obj\Debug\netcoreapp2.1\RestaurantAPI.RazorAssemblyInfo.cache
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\obj\Debug\netcoreapp2.1\RestaurantAPI.RazorAssemblyInfo.cs
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\obj\Debug\netcoreapp2.1\RestaurantAPI.AssemblyInfoInputs.cache
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\obj\Debug\netcoreapp2.1\RestaurantAPI.AssemblyInfo.cs
+D:\WebAPI\project\RestaurantAPI\RestaurantAPI\obj\Debug\netcoreapp2.1\RestaurantAPI.RazorTargetAssemblyInfo.cache
